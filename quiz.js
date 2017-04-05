@@ -53,4 +53,4 @@ if ( correct === 5 ){
   
    document.write("<p><strong>You earned a silver crown!<strong></p>");
   
-}
+} else {document.write("<p><strong>You need to study!<strong></p>"); }
